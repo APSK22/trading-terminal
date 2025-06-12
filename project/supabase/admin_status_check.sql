@@ -1,6 +1,6 @@
 -- This file contains SQL queries to check and set admin status
 -- Run these queries in your Supabase SQL Editor
-
+--for checking admin status
 -- Check current admin status for your user
 SELECT 
   id, 
